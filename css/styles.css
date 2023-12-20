@@ -71,7 +71,9 @@ body {
     line-height: 1.07; 
     letter-spacing: 0.02em;
 }
-
+.section-team-list {
+    background-color: #FFFFFF;
+}
 .advantages-title{
         font-size: 20px;
         font-weight: 500;
@@ -98,7 +100,10 @@ body {
     line-height: 1.50; 
     letter-spacing: 0.02em;
 }
-.section-team > h2{
+.section-team {
+    background-color: #F4F4FD;
+}
+.section-team-head{
     text-align: center;
     font-size: 36px;
     font-weight: 700;
