@@ -76,10 +76,11 @@ body {
     background-color: #FFFFFF;
 }
 .advantages-title{
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.20;
-        letter-spacing: 0.02em;
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20;
+    letter-spacing: 0.02em;
 }
 .advantages-text{
     color: #434455;
