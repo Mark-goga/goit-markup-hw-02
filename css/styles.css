@@ -47,6 +47,19 @@ body {
 .header-adress:focus {
     color:#404bbf;
 }
+.section-button-button {
+    background-color: #4D5AE5;
+    color:   #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.50;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.section-button-button:hover,
+.section-button-button:focus {
+    background-color: #404BBF;
+}
 .section-button{
     background: #2E2F42;
 }
@@ -58,14 +71,7 @@ body {
     line-height: 1.07; 
     letter-spacing: 0.02em;
 }
-.section-button-span{
-    color:  #FFF;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.50;
-    letter-spacing: 0.64px;
-    cursor: pointer;
-}
+
 .advantages-title{
         font-size: 20px;
         font-weight: 500;
