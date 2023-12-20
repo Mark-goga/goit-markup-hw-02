@@ -133,3 +133,8 @@ body {
 .footer{
     background:  #2E2F42;
 }
+.footer-text {
+    line-height: 1.5;
+    color:#F4F4FD;
+    letter-spacing: 0.02em;
+}
